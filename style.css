@@ -1,0 +1,16 @@
+.magazin {
+  width: 150px;
+  height: 190px;
+}
+
+.sammagaz {
+  justify-content: center;
+  display: flex;
+  gap: 40px;
+  flex-wrap: wrap;
+  margin-bottom: 100px;
+}
+
+.magazin {
+  text-align: center;
+}
